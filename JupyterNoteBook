@@ -1,6 +1,9 @@
-#"This Jupyter Notebook is for use in the Capstone Project"
+"This Jupyter Notebook is for use in the Capstone Project"
 
 import pandas as pd
 import numpy as np
 print('Hello Capstone Project Course')
+Hello Capstone Project Course
+
+Link to the NoteBook
 https://hub.mybinder.org/user/ipython-ipython-in-depth-ot3edyvr/notebooks/binder/Jupyter.ipynb
