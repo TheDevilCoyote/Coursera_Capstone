@@ -1,0 +1,9 @@
+Introduction/Business Problem:
+An advertising company in New York City is having trouble finding places to advertise to tourists and visitors to New York City. 
+I will be using the Foursquare location data to help find popular spots for them to advertise. With the data I will provide them 
+they will be able to not only make more ad revenue but they will also be able to help tourists and visitors find where it is they 
+should be going.
+Data Section:
+I will be using Foursquare's location data to find some of the most popular tourist location in New York City. 
+I will be looking at the rating of each location as well as how many people actually visit the location per day. 
+An example of what this would look like would be how many people visit Central Park in a given day.
